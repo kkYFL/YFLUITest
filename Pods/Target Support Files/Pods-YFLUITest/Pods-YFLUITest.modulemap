@@ -1,0 +1,6 @@
+framework module Pods_YFLUITest {
+  umbrella header "Pods-YFLUITest-umbrella.h"
+
+  export *
+  module * { export * }
+}
